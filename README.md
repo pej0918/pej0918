@@ -6,7 +6,7 @@
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpej0918&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/pej0918)
 
 [![EUNJU's GitHub stats](https://github-readme-stats.vercel.app/api?username=pej0918&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/pej0918/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pej0918&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pej0918&&include_all_commits=true&theme=nord&hide_border=true&count_private=true)
  
 <br>
 
