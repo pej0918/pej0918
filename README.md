@@ -17,7 +17,7 @@
   
 ### Hello🖐️
 * I'm dreaming of becoming a AI Engineer.
-* I'm interested in NLP & Data Analysis.
+* I'm interested in NLP , Web Develop and Data Analysis.
 
     
 ### Skills 🔨
