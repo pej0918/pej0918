@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/01j_kr/">
