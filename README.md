@@ -16,8 +16,8 @@
 </div><br>
   
 ### Hello🖐️
-dd
-dd
+* I'm dreaming of becoming a AI Engineer.
+* I'm interested in NLP & Data Analysis.
 
     
 ### Skills 🔨
@@ -31,7 +31,8 @@ dd
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
-#### once I've used
+
+#### Once I've used
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
