@@ -16,7 +16,7 @@
 </div><br>
   
 ### Hello🖐️
-* I'm dreaming of becoming a AI Engineer.
+* I'm dreaming of becoming a Data Scientist.
 * I'm interested in NLP , Web Develop and Data Analysis.
 
     
