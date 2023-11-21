@@ -10,9 +10,6 @@
    <a href="https://pej2834.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="https://chiseled-comet-16d.notion.site/441b2e2bbb1e4f0b95db04d3f1066b78?pvs=4">
-        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
-    </a>
 </div><br>
   
 ### Hello🖐️
