@@ -14,7 +14,7 @@
   
 ### Hello🖐️
 * I'm dreaming of becoming a Data Scientist.
-* I'm interested in NLP , Web Programming and Data Analysis.
+* I'm interested in DeepLearning, especially NLP, MachineLearning , Web Programming and Data Analysis.
 
     
 ### Skills 🔨
