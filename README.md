@@ -14,7 +14,7 @@
   
 ### Hello🖐️
 * I'm dreaming of becoming a Data Scientist.
-* I'm interested in DeepLearning, especially NLP, Multi-Modal, MachineLearning , and Data Analysis.
+* I'm interested in DeepLearning, especially Multi-Modal and NLP.
 
     
 ### Skills 🔨
