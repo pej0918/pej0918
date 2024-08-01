@@ -29,8 +29,6 @@
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </div><br>
 
-https://github-readme-stats.vercel.app/api?username=pej0918&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=flag-india
-
 #### Once I've used
 <div style="display:flex; flex-direction:row;">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -38,3 +36,5 @@ https://github-readme-stats.vercel.app/api?username=pej0918&show_icons=true&hide
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 </div><br>
 </div>
+
+![Eunju's GitHub stats]https://github-readme-stats.vercel.app/api?username=pej0918&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=flag-india
