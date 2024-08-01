@@ -37,4 +37,4 @@
 </div><br>
 </div>
 
-![Eunju's GitHub stats](https://github-readme-stats.vercel.app/api?username=pej0918&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=catppuccin_latte)
+![Eunju's GitHub stats](https://github-readme-stats.vercel.app/api?username=pej0918&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)
