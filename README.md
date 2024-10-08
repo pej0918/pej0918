@@ -36,13 +36,6 @@
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 </div><br>
 </div>
-
 <a href="https://github.com/pej0918/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pej0918&layout=donut&show_icons=true&theme=graywhite&hide_border=true&count_private=true" width=38% />
-</a>    
-<a href="https://github.com/pej0918/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=pej0918&show_icons=true&theme=graywhite&hide_border=true&count_private=true" width=56% />
-</a>
-<a href="https://github.com/pej0918/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pej0918&theme=graywhite&hide_border=true" width=94%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pej0918&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
 </a>
