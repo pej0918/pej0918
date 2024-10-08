@@ -37,4 +37,4 @@
 </div><br>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pej0918)](https://github.com/anuraghazra/github-readme-stats)
+![pej0918's GitHub stats](https://github-readme-stats.vercel.app/api?username=pej0918&hide=contribs,prs&show_icons=true&theme=graywhite)
