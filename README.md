@@ -46,6 +46,5 @@
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 </div><br>
 </div>
-<a href="https://github.com/pej0918/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=pej0918&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
-</a>
+
+![pej0918's GitHub stats](https://github-readme-stats.vercel.app/api?username=pej0918&show_icons=true&theme=graywhite&hide_border=false&count_private=true)
