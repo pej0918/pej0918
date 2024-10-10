@@ -16,7 +16,7 @@
 * I'm dreaming of becoming a Data Scientist.
 * I'm interested in DeepLearning, especially Multi-Modal and NLP.
   
-### Experience✨    
+### Experience🔭     
 🤹 Extracurricular Activity     
 - [deep daiv.](https://deepdaiv.oopy.io/) (2022-*present*)
   - Multi-Modality Team, Mentee (Nov.2023-*present*)
