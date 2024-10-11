@@ -19,9 +19,9 @@
 ### Experience🔭     
 🤹 Extracurricular Activity     
 - [deep daiv.](https://deepdaiv.oopy.io/) (2022-*present*)
-  - Multi-Modality Team, Mentee (Nov.2023-*present*)
-  - Data Journalism Team, Mentee (Jan.2023-Apr.2023)
-  - Data Analysis Team, Mentee (Apr.2022-Dec.2022)
+  - Multi-Modality Team (Nov.2023-*present*)
+  - Data Journalism Team (Jan.2023-Apr.2023)
+  - Data Analysis Team (Apr.2022-Dec.2022)
 
 🧑‍💻 Research Experience   
 - [Language Intelligence Lab](https://etri-xainlp.github.io/) @ [Electronics and Telecommunications Research Institute(ETRI)](https://www.etri.re.kr/eng/main/main.etri) (Jul.2024-Aug.2024)   
