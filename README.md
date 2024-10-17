@@ -24,7 +24,7 @@
   - Data Analysis Team (Apr.2022-Dec.2022)
 
 🧑‍💻 Research Experience   
-- [Language Intelligence Lab](https://etri-xainlp.github.io/) @ [Electronics and Telecommunications Research Institute(ETRI)](https://www.etri.re.kr/eng/main/main.etri) (Jun.2024-Aug.2024)   
+- [Language Intelligence Lab](https://etri-xainlp.github.io/) @ [Electronics and Telecommunications Research Institute(ETRI)](https://www.etri.re.kr/eng/main/main.etri) (Jul.2024-Aug.2024)   
 
     
 ### Skills 🔨
