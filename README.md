@@ -14,7 +14,7 @@
   
 ### Hello🖐️
 * I'm dreaming of becoming a AI researcher.
-* I'm interested in DeepLearning, especially Multi-Modal and NLP.
+* I'm interested in DeepLearning, especially Multi-Modal, Generative AI, NLP and Anomaly Detection.
   
 ### Experience🔭     
 🤹 Extracurricular Activity     
