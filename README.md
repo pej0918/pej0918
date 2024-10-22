@@ -13,7 +13,7 @@
 </div><br>
   
 ### Hello🖐️
-* I'm dreaming of becoming a Data Scientist.
+* I'm dreaming of becoming a AI researcher.
 * I'm interested in DeepLearning, especially Multi-Modal and NLP.
   
 ### Experience🔭     
