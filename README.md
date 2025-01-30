@@ -19,7 +19,7 @@
 ### Experience🔭     
 🤹 Extracurricular Activity     
 - [deep daiv.](https://deepdaiv.oopy.io/) (2022-*present*)
-  - Multi-Modality Team (Nov.2023-*present*)
+  - Multi-Modality Team (Nov.2023-Jan.2025)
   - Data Journalism Team (Jan.2023-Apr.2023)
   - Data Analysis Team (Apr.2022-Dec.2022)
 
