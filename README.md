@@ -1,15 +1,15 @@
 <div align="left">
-  
-<div style="display:flex; flex-direction:row;">
+  <div style="display:flex; flex-direction:row;">
     <a href="mailto:pej0918@ewha.ac.kr">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" width="80px"> 
     </a>
-</div><br>
+</div>
+<br>
   
 ### Hi there! I'm Eunju Park🖐️
 🎓I hold a Bachelor’s degree in Mathematics and Computer Science from Ewha Womans University.
 <br>
-🔥I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively. My research interests include **Multimodal Learning, Anomaly Detection, Computer Vision, Natural Language Processing, and Generative Models.**
+🔥I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively. Currently, I'm interested in **Multimodal Learning, Anomaly Detection, Computer Vision, Natural Language Processing, and Generative Models.**
 
   
 ### Experience🔭     
