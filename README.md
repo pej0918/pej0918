@@ -6,9 +6,11 @@
     </a>
 </div><br>
   
-### Hello🖐️
-* I'm dreaming of becoming a AI researcher.
-* I'm interested in DeepLearning, especially Multi-Modal, Generative AI, NLP and Anomaly Detection.
+### Hi there! I'm Eunju Park🖐️
+🎓I hold a Bachelor’s degree in Mathematics and Computer Science from Ewha Womans University.
+<br>
+🔥I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively. My research interests include **Multimodal Learning, Anomaly Detection, Computer Vision, Natural Language Processing, and Generative Models.**
+
   
 ### Experience🔭     
 🤹 Extracurricular Activity     
