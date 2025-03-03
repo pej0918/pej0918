@@ -9,7 +9,7 @@
 ### Hi there! I'm Eunju Park🖐️
 🎓I hold a Bachelor’s degree in Mathematics and Computer Science from Ewha Womans University.
 <br>
-🔥I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively. Currently, I'm interested in **Multimodal Learning, Anomaly Detection, Computer Vision, Natural Language Processing, and Generative Models.**
+🔥I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively. Currently, I'm interested in **Multimodal Learning, Multimodal Hallucination, Anomaly Detection, Computer Vision, Natural Language Processing, and Generative Models.**
 
   
 ### Experience🔭     
